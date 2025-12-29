@@ -1,6 +1,4 @@
-# Full Project Code Mail : vatshayan007@gmail.com
-# If you get error then Mail : vatshayan007@gmail.com
-
+#Test Code
 import cv2
 import numpy as np
 import face_recognitions
@@ -71,5 +69,6 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindow()
+
 
 
