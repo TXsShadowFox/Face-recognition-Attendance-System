@@ -1,4 +1,4 @@
-############################################# IMPORTING ################################################
+############################################# IMPORTING INSTALL ################################################
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox as mess
@@ -1109,5 +1109,6 @@ delete_images_button.place(x=320, y=115)
 ##################### END ######################################
 window.configure(menu=menubar)
 window.mainloop()
+
 
 
